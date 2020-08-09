@@ -1,9 +1,12 @@
 ### Hi there, I'm Justin  👋
 
+[<img align="left" alt="Visual Studio Code" width="100px" 
+src="https://raw.githubusercontent.com/MariaLetta/mega-doodles-pack/master/doodles/png/doodle-34.png" />]
+
 ## I'm a Photography, IT Specialist, and a Developer!
 - 🔭 I’m currently working on a Django course [website]!
 - 🌱 I’m currently learning everything Python :heart_eyes:
-- 👯 I’m looking for project I can work on to help humanity
+- 👯 I’m looking for projects I can work on to help humanity
 - 🥅 2020 Goals: Learn Python from the ground up
 - ⚡ Fun fact: I own my own home infrastructure for fun... and science 
 
@@ -28,7 +31,7 @@
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
