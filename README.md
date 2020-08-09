@@ -4,7 +4,7 @@
 src="https://raw.githubusercontent.com/MariaLetta/mega-doodles-pack/master/doodles/png/doodle-34.png" />
 
 ## I'm a Photography, IT Specialist, and a Developer!
-- 🔭 I’m currently working on a Django course [website]!
+- 🔭 I’m currently working on a Django course | [website]!
 - 🌱 I’m currently learning everything Python :heart_eyes:
 - 👯 I’m looking for projects I can work on to help humanity
 - 🥅 2020 Goals: Learn Python from the ground up
