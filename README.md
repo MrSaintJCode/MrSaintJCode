@@ -54,3 +54,6 @@ src="https://raw.githubusercontent.com/MariaLetta/mega-doodles-pack/master/doodl
 [youtube]: https://www.youtube.com/channel/UCgVy2r2sYVLAvZM1FtA-i2w
 [instagram]: https://www.instagram.com/mrsaintj
 [linkedin]: https://www.linkedin.com/in/mrsaintj123/
+
+---
+<img src="https://www.clipartmax.com/png/middle/132-1323423_type-1-diabetes-proceeds-benefit-dri-thanks-to-a-diabetes-type-1.png" alt="Type 1 Diabetes" />
