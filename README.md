@@ -55,5 +55,3 @@ src="https://raw.githubusercontent.com/MariaLetta/mega-doodles-pack/master/doodl
 [instagram]: https://www.instagram.com/mrsaintj
 [linkedin]: https://www.linkedin.com/in/mrsaintj123/
 
----
-<img src="https://commons.wikimedia.org/wiki/File:T1DRpng.png#/media/File:T1DRpng.png" alt="Type 1 Diabetes" />
