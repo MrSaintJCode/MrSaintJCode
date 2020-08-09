@@ -28,11 +28,13 @@ src="https://raw.githubusercontent.com/MariaLetta/mega-doodles-pack/master/doodl
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_django.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" />
+<img align="left" alt="Powershell" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_powershell.svg" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/folder_type_docker.svg" />
+<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_ansible.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
