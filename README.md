@@ -1,7 +1,7 @@
 ### Hi there, I'm Justin  👋
 
-[<img align="left" alt="Visual Studio Code" width="100px" 
-src="https://raw.githubusercontent.com/MariaLetta/mega-doodles-pack/master/doodles/png/doodle-34.png" />]
+<img alt="Banner" width="100px" 
+src="https://raw.githubusercontent.com/MariaLetta/mega-doodles-pack/master/doodles/png/doodle-34.png" />
 
 ## I'm a Photography, IT Specialist, and a Developer!
 - 🔭 I’m currently working on a Django course [website]!
