@@ -45,6 +45,7 @@ src="https://raw.githubusercontent.com/MariaLetta/mega-doodles-pack/master/doodl
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Counter-Strike 1.6 - Dedicated Server in a Docker Container](https://youtu.be/23Bn3YJFdPw)
 - [How to install macOS Catalina 10.15 onto Proxmox 6.1 or 6.2 using OpenCore](https://www.youtube.com/watch?v=86XqF5dqjYc)
 <!-- YOUTUBE:END -->
 
