@@ -4,10 +4,10 @@
 src="https://raw.githubusercontent.com/MariaLetta/mega-doodles-pack/master/doodles/png/doodle-34.png" />
 
 ## I'm a Photographer, IT Specialist, and a Developer!
-- 🔭 I’m currently working on a Django course | [website]!
+- 🔭 I’m currently working Python 100 Days of Code | [website]!
 - 🌱 I’m currently learning everything Python :heart_eyes:
 - 👯 I’m looking for projects I can work on to help humanity
-- 🥅 2020 Goals: Learn Python from the ground up
+- 🥅 2021 Goals: Learn Python from the ground up
 - ⚡ Fun fact: I own my own home infrastructure for fun... and science 
 
 ### Connect with me:
@@ -46,12 +46,11 @@ src="https://raw.githubusercontent.com/MariaLetta/mega-doodles-pack/master/doodl
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Counter-Strike 1.6 - Dedicated Server in a Docker Container](https://youtu.be/23Bn3YJFdPw)
-- [How to install macOS Catalina 10.15 onto Proxmox 6.1 or 6.2 using OpenCore](https://www.youtube.com/watch?v=86XqF5dqjYc)
 <!-- YOUTUBE:END -->
 
 ---
 
-[website]: https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/
+[website]: https://github.com/MrSaintJCode/100-Days-of-Python
 [youtube]: https://www.youtube.com/channel/UCgVy2r2sYVLAvZM1FtA-i2w
 [instagram]: https://www.instagram.com/mrsaintj
 [linkedin]: https://www.linkedin.com/in/mrsaintj123/
