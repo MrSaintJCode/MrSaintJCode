@@ -41,14 +41,6 @@ src="https://raw.githubusercontent.com/MariaLetta/mega-doodles-pack/master/doodl
 <br />
 <br />
 
----
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Counter-Strike 1.6 - Dedicated Server in a Docker Container](https://youtu.be/23Bn3YJFdPw)
-<!-- YOUTUBE:END -->
-
----
 
 [website]: https://github.com/MrSaintJCode/100-Days-of-Python
 [youtube]: https://www.youtube.com/channel/UCgVy2r2sYVLAvZM1FtA-i2w
