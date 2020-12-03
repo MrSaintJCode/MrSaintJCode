@@ -15,7 +15,7 @@ src="https://raw.githubusercontent.com/MariaLetta/mega-doodles-pack/master/doodl
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38789/preview.svg" />][codeacademy]
 <br />
 
 ### Languages and Tools:
@@ -41,7 +41,7 @@ src="https://raw.githubusercontent.com/MariaLetta/mega-doodles-pack/master/doodl
 <br />
 <br />
 
-
+[codeacademy]: https://www.codecademy.com/profiles/mrsaintjcode
 [website]: https://github.com/MrSaintJCode/100-Days-of-Python
 [youtube]: https://www.youtube.com/channel/UCgVy2r2sYVLAvZM1FtA-i2w
 [instagram]: https://www.instagram.com/mrsaintj
