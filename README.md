@@ -4,11 +4,11 @@
 src="https://raw.githubusercontent.com/MariaLetta/mega-doodles-pack/master/doodles/png/doodle-34.png" />
 
 ## I'm a Photographer, IT Specialist, and a Developer!
-- 🔭 I’m currently working Python 100 Days of Code | [website]!
-- 🌱 I’m currently learning everything Python :heart_eyes:
-- 👯 I’m looking for projects I can work on to help humanity
-- 🥅 2021 Goals: Learn Python from the ground up
-- ⚡ Fun fact: I own my own home infrastructure for fun... and science 
+- 🔭 I’m currently working on Terraform using AWS
+- 🌱 I’m currently learning AWS Solution Architect :heart_eyes:
+- 👯 I’m looking for automation projects
+- 🥅 2021 Goals: Earn my AWS Solution Architect Associate Certification
+- ⚡ Fun fact: I own my own homelab
 
 ### Connect with me:
 
