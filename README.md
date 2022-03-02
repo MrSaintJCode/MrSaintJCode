@@ -3,12 +3,12 @@
 <img alt="Banner" width="100px" 
 src="https://raw.githubusercontent.com/MariaLetta/mega-doodles-pack/master/doodles/png/doodle-34.png" />
 
-## I'm a Photographer, IT Specialist, and a Developer!
+## I'm a Photographer, Technical Lead, and a Developer!
 - 🔭 I’m currently working on Terraform using AWS
 - 🌱 I’m currently learning AWS Solution Architect :heart_eyes:
 - 👯 I’m looking for automation projects
-- 🥅 2021 Goals: Earn my AWS Solution Architect Associate Certification
-- ⚡ Fun fact: I own my own homelab
+- 🥅 2022 Goals: Earn my AWS Solution Architect Associate Certification
+- ⚡ Fun fact: I own a homelab 🤓
 
 ### Connect with me:
 
@@ -42,7 +42,7 @@ src="https://raw.githubusercontent.com/MariaLetta/mega-doodles-pack/master/doodl
 <br />
 
 [codeacademy]: https://www.codecademy.com/profiles/mrsaintjcode
-[website]: https://github.com/MrSaintJCode/100-Days-of-Python
+[website]: https://github.com/MrSaintJCode/
 [youtube]: https://www.youtube.com/channel/UCgVy2r2sYVLAvZM1FtA-i2w
 [instagram]: https://www.instagram.com/mrsaintj
 [linkedin]: https://www.linkedin.com/in/mrsaintj123/
