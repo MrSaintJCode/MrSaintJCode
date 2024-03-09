@@ -3,12 +3,12 @@
 <img alt="Banner" width="100px" 
 src="https://raw.githubusercontent.com/MariaLetta/mega-doodles-pack/master/doodles/png/doodle-34.png" />
 
-## I'm a Photographer, Technical Lead, and a Developer!
-- 🔭 I’m currently working on Terraform using AWS
+## I'm a Photographer, System Manager, and a Developer!
+- 🔭 I’m currently working on Terraform/Chef/Ansible using AWS
 - 🌱 I’m currently learning AWS Solution Architect :heart_eyes:
 - 👯 I’m looking for automation projects
-- 🥅 2022 Goals: Earn my AWS Solution Architect Associate Certification
-- ⚡ Fun fact: I own a homelab 🤓
+- 🥅 2024 Goals: Earn my AWS Solution Architect Associate Certification
+- ⚡ Fun fact: Oceanwise Ambassador hoping to help perserve our Oceans 🌊
 
 ### Connect with me:
 
